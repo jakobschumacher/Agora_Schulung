@@ -1,0 +1,48 @@
+project:
+  type: book
+
+book:
+  title: "Agora_Schulung"
+  author: "Norah Jones"
+  date: "6.12.2024"
+  chapters:
+    - index.qmd
+    - part: Benutzer
+      chapters: 
+        - src/content/docs/user/erste-schritte.md
+        - src/content/docs/user/kontakte.md
+        - src/content/docs/user/kalender.md
+        - src/content/docs/user/projekte.md
+        - src/content/docs/user/aktivitaeten.md
+        - src/content/docs/user/dateien.md
+        - src/content/docs/user/office.md
+        - src/content/docs/user/aufgaben.md
+        - src/content/docs/user/e-mail.md
+        - src/content/docs/user/self-service.md
+        - src/content/docs/user/chat.md
+        - src/content/docs/user/videokonferenzen.md
+        - src/content/docs/user/wissen.md
+    - part: Administration
+      chapters: 
+        - src/content/docs/reference/example.md
+        - src/content/docs/administration/erste-schritte.md
+        - src/content/docs/administration/groupware.md
+        - src/content/docs/administration/benutzerrechte.md
+        - src/content/docs/administration/faq.md
+        - src/content/docs/administration/gruppen.md
+        - src/content/docs/administration/benutzer.md
+        - src/content/docs/administration/announcements.md
+    - part: Videos
+      chapters:   
+        - videos/dashboard.md      
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

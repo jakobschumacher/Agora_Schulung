@@ -1,0 +1,80 @@
+{
+  "index.qmd": {
+    "index.html": "6d6e25ae"
+  },
+  "intro.qmd": {
+    "intro.html": "5f60850b"
+  },
+  "summary.qmd": {
+    "summary.html": "9aab42dd"
+  },
+  "references.qmd": {
+    "references.html": "43caf2c5"
+  },
+  "src/content/docs/user/aktivitaeten.md": {
+    "aktivitaeten.html": "fe334c78"
+  },
+  "src/content/docs/user/erste-schritte.md": {
+    "erste-schritte.html": "fbbe6c4d"
+  },
+  "src/content/docs/user/kontakte.md": {
+    "kontakte.html": "2fa079c7"
+  },
+  "src/content/docs/user/kalender.md": {
+    "kalender.html": "7c75c716"
+  },
+  "src/content/docs/user/projekte.md": {
+    "projekte.html": "c8d6e85d"
+  },
+  "src/content/docs/user/dateien.md": {
+    "dateien.html": "360463c0"
+  },
+  "src/content/docs/user/office.md": {
+    "office.html": "8e104a55"
+  },
+  "src/content/docs/user/aufgaben.md": {
+    "aufgaben.html": "01367a42"
+  },
+  "src/content/docs/user/e-mail.md": {
+    "e-mail.html": "85cfd1d1"
+  },
+  "src/content/docs/user/self-service.md": {
+    "self-service.html": "e6fe2c9d"
+  },
+  "src/content/docs/user/chat.md": {
+    "chat.html": "56d46548"
+  },
+  "src/content/docs/user/videokonferenzen.md": {
+    "videokonferenzen.html": "cec13132"
+  },
+  "src/content/docs/user/wissen.md": {
+    "wissen.html": "03557276"
+  },
+  "src/content/docs/reference/example.md": {
+    "example.html": "641ad972"
+  },
+  "src/content/docs/administration/erste-schritte.md": {
+    "erste-schritte.html": "67f6156b"
+  },
+  "src/content/docs/administration/groupware.md": {
+    "groupware.html": "71e32af5"
+  },
+  "src/content/docs/administration/benutzerrechte.md": {
+    "benutzerrechte.html": "d19e1f9a"
+  },
+  "src/content/docs/administration/faq.md": {
+    "faq.html": "2bb5d043"
+  },
+  "src/content/docs/administration/gruppen.md": {
+    "gruppen.html": "4ac187b3"
+  },
+  "src/content/docs/administration/benutzer.md": {
+    "benutzer.html": "51b67a11"
+  },
+  "src/content/docs/administration/announcements.md": {
+    "announcements.html": "c4316e10"
+  },
+  "videos/dashboard.md": {
+    "dashboard.html": "c1469933"
+  }
+}
